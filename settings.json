@@ -78,10 +78,17 @@
     "window.restoreWindows": "none",
     "window.newWindowDimensions": "maximized",
     "workbench.editor.enablePreview": true,
-    "workbench.iconTheme": "vscode-great-icons",
+    "workbench.iconTheme": "Monokai Pro (Filter Spectrum) Icons",
     "workbench.settings.editor": "json",
     "workbench.settings.openDefaultSettings": true,
     "workbench.settings.useSplitJSON": true,
     "workbench.startupEditor": "newUntitledFile",
     "workbench.panel.defaultLocation": "right",
+    "tabnine.experimentalAutoImports": true,
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Dracula Soft",
+    "gitlens.advanced.messages": {
+      "suppressGitDisabledWarning": true,
+      "suppressGitMissingWarning": true
+    },
 }
